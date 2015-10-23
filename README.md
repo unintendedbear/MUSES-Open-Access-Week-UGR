@@ -2,3 +2,5 @@
 Repository for the Hackathon at the Open Access Week, October 2015, in Granada.
 
 Online presentation at https://goo.gl/lgjvlM 
+
+MUSES project Github webpage https://github.com/MusesProject
